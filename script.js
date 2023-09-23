@@ -8,13 +8,14 @@ var languageJson;
 var languageId;
 
 var languages = {
-	//key   : ['LABEL', cache-id],
-	'en'    : ['English', 1],
-	'pt-BR' : ['Português', 2],
-	'ru-RU' : ['Русский', 1],
-	'zh-CN' : ['中文', 2],
-    'nl' : ['Nederlands', 1],
+    'en': ['English', 1],
+    'pt-BR': ['Português', 2],
+    'ru-RU': ['Русский', 1],
+    'zh-CN': ['中文', 2],
+    'nl': ['Nederlands', 1],
+    'ja': ['日本語', 3] 
 };
+
 
 window.onload = function() {
 
