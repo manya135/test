@@ -13,7 +13,7 @@ var languages = {
     'ru-RU': ['Русский', 1],
     'zh-CN': ['中文', 2],
     'nl': ['Nederlands', 1],
-    'ja': ['日本語', 3] 
+    'ja-JP': ['日本語', 3] 
 };
 
 
